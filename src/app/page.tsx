@@ -42,11 +42,11 @@ export default function Home() {
           <h2 className="text-end text-4xl">loading...</h2>
 
           <p className="text-[12px] leading-relaxed mt-8 text-end">
-            There are many different types of spider silk depending
+            There are many different types of spider silk
             <br />
-            on the species of spider and how it hunts for prey.
+            depending on the species of spider and how
             <br />
-            using stacked transparent
+            it hunts for prey. using stacked transparent
             <br />
             plastic sheets to simulate movement.
           </p>
@@ -55,27 +55,15 @@ export default function Home() {
             <p className="text-base md:text-lg max-w-xl leading-relaxed">
               The story of how a round
               <br />
-              spider web
+              spider web is created is
               <br />
-              is created is brought to life
+              brought to life through
               <br />
-              through animation,
+              animation, using stacked
               <br />
-              using stacked transparent
+              transparent plastic sheets
               <br />
-              plastic sheets to simulate
-              <br />
-              movement.
-            </p>
-
-            <p className="text-base md:text-lg max-w-xl leading-relaxed">
-              The story of how a round spider web
-              <br />
-              is created is brought to life through animation,
-              <br />
-              using stacked transparent
-              <br />
-              plastic sheets to simulate movement.
+              to simulate movement.
             </p>
           </div>
         </div>
