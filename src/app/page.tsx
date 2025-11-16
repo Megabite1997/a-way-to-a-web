@@ -38,8 +38,8 @@ export default function Home() {
         />
       ) : (
         <div className="flex-col w-full text-black mx-4 mt-14">
-          <h1 className=" text-center text-[58px]">Way to a web</h1>
-          <h2 className="text-end text-4xl">loading...</h2>
+          <h1 className=" text-center text-[45px]">Way to a web</h1>
+          <h2 className="text-end text-3xl">loading...</h2>
 
           <p className="text-[12px] leading-relaxed mt-8 text-end">
             There are many different types of spider silk
